@@ -22,3 +22,9 @@ A curated list of free or open-source icon libraries, in different styles, suita
 | 16  | Bootstrap Icons          | [https://icons.getbootstrap.com](https://icons.getbootstrap.com/)                   |
 | 17  | Heroicons                | [https://heroicons.com](https://heroicons.com/)                                     |
 | 18  | Ionicons                 | [https://ionic.io/ionicons](https://ionic.io/ionicons)                              |
+| 19  | Iconoir                  | [https://iconoir.com](https://iconoir.com/)                                         |
+| 20  | Ikonate                  | [https://ikonate.com](https://ikonate.com/)                                         |
+| 21  | Line Awesome             | [https://icons8.com/line-awesome](https://icons8.com/line-awesome)                  |
+| 22  | Fusion Crypto Icons      | [https://fusion.li/app](https://fusion.li/app)                                      |
+| 23  | Dripicons                | [http://demo.amitjakhu.com/dripicons](http://demo.amitjakhu.com/dripicons/)         |
+| 24  | Unicons by Iconscout     | [https://iconscout.com/unicons](https://iconscout.com/unicons)                      |
