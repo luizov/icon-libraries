@@ -29,3 +29,4 @@ A curated list of free or open-source icon libraries, in different styles, suita
 | 23  | Dripicons                | [http://demo.amitjakhu.com/dripicons](http://demo.amitjakhu.com/dripicons/)         |
 | 24  | Unicons by Iconscout     | [https://iconscout.com/unicons](https://iconscout.com/unicons)                      |
 | 25  | Eva Icons                | [https://akveo.github.io/eva-icons/#/](https://akveo.github.io/eva-icons/#/)        |
+| 26  | Tabler Icons             | [https://tabler-icons.io/](https://tabler-icons.io/)                                |
