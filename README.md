@@ -38,3 +38,9 @@ A curated list of free or open-source icon libraries, in different styles, suita
 | 32  | useAnimations Icons      | [https://useanimations.com/](https://useanimations.com/)                            |
 | 33  | Icon Bros                | [https://www.iconbros.com/](https://www.iconbros.com/)                              |
 | 34  | System UIcons            | [https://systemuicons.com/](https://systemuicons.com/)                              |
+| 35  | Lucide Icons (Feather)   | [https://lucide.dev/](https://lucide.dev/)                                          |
+| 36  | Phosphor Icons           | [https://phosphoricons.com/](https://phosphoricons.com/)                            |
+| 37  | Radix Icons              | [https://icons.modulz.app/](https://icons.modulz.app/)                              |
+| 38  | Teeny Icons              | [https://teenyicons.com/](https://teenyicons.com/)                                  |
+| 39  | Icones (Huge resource)   | [https://icones.js.org/](https://icones.js.org/)                                    |
+| 40  | CoreUI Flags             | [https://icones.js.org/collection/cif](https://icones.js.org/collection/cif)        |
