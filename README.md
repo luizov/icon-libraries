@@ -33,3 +33,7 @@ A curated list of free or open-source icon libraries, in different styles, suita
 | 27  | Akari Icons              | [https://akaricons.com](https://akaricons.com/)                                     |
 | 28  | Streamline Freemoji      | [https://streamlinehq.com](https://app.streamlinehq.com/emojis/freebies-freemojis)  |
 | 29  | Streamline Kawaii Emoji  | [https://streamlinehq.com](https://app.streamlinehq.com/emojis/kawaii-emoji)        |
+| 30  | X Icons                  | [https://www.xicons.org/#/](https://www.xicons.org/#/)                              |
+| 31  | Simple (Brand Icons)     | [https://simpleicons.org/](https://simpleicons.org/)                                |
+| 32  | useAnimations Icons      | [https://useanimations.com/](https://useanimations.com/)                            |
+| 33  | Icon Bros                | [https://www.iconbros.com/](https://www.iconbros.com/)                              |
