@@ -37,3 +37,4 @@ A curated list of free or open-source icon libraries, in different styles, suita
 | 31  | Simple (Brand Icons)     | [https://simpleicons.org/](https://simpleicons.org/)                                |
 | 32  | useAnimations Icons      | [https://useanimations.com/](https://useanimations.com/)                            |
 | 33  | Icon Bros                | [https://www.iconbros.com/](https://www.iconbros.com/)                              |
+| 34  | System UIcons            | [https://systemuicons.com/](https://systemuicons.com/)                              |
