@@ -45,3 +45,5 @@ A curated list of free or open-source icon libraries, in different styles, suita
 | 39  | Icones (Huge resource)   | [https://icones.js.org/](https://icones.js.org/)                                    |
 | 40  | CoreUI Flags             | [https://icones.js.org/collection/cif](https://icones.js.org/collection/cif)        |
 | 41  | Mono Icons               | [https://icons.mono.company/](https://icons.mono.company/)                          |
+| 42  | Rubicons                 | [https://www.rubicons.app/](https://www.rubicons.app/)                              |
+| 43  | Boxicons                 | [https://boxicons.com/](https://boxicons.com/)                                      |
