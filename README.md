@@ -47,3 +47,4 @@ A curated list of free or open-source icon libraries, in different styles, suita
 | 41  | Mono Icons               | [https://icons.mono.company/](https://icons.mono.company/)                          |
 | 42  | Rubicons                 | [https://www.rubicons.app/](https://www.rubicons.app/)                              |
 | 43  | Boxicons                 | [https://boxicons.com/](https://boxicons.com/)                                      |
+| 44  | SVGRepo                  | [https://www.svgrepo.com/](https://www.svgrepo.com/)                                |
