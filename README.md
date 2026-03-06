@@ -49,3 +49,4 @@ A curated list of free or open-source icon libraries, in different styles, suita
 | 43  | Boxicons                       | [https://boxicons.com/](https://boxicons.com/)                                      |
 | 44  | SVGRepo                        | [https://www.svgrepo.com/](https://www.svgrepo.com/)                                |
 | 45  | Open source icons by Craftwork | [https://icons.craftwork.design](https://icons.craftwork.design)                    |
+| 46  | Next Icons                     | [https://www.nexticons.com](https://www.nexticons.com)                              |
